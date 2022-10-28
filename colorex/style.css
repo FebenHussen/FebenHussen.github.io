@@ -96,7 +96,7 @@ body{
     left:0;
     width: 300.5px;
     height: 300.5px;
-    background: rgb(56, 55, 55);
+    background: #2f332f;
     transform: rotateX(90deg) translateZ(150px);
 }
 
